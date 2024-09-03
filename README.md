@@ -1,7 +1,6 @@
 # Collaboration: The Secret to Charting on the Billboard Top 100?
 
-For the project summary, visit [Project Summary](https://jeesung-ahn.github.io/docs/music_featuring_trend.html).
-
+For a detailed overview of the project, visit [Project Summary](https://jeesung-ahn.github.io/docs/music_featuring_trend.html).
 
 In recent years, the trend of artists collaborating on songs has become increasingly prevalent. This analysis examines whether this shift is reflected in the data, specifically focusing on the Billboard Hot 100 charts. By parsing and analyzing data from 1958 to 2021, this study investigates the frequency and impact of collaborations versus solo performances among top-charting artists.
 
